@@ -45,6 +45,11 @@ README.md
 3. ML model predicts the most relevant job role.
 4. Prediction is saved in SQLite and can be managed later.
 
+📊 Screenshot
+<img width="1919" height="709" alt="Screenshot 2025-08-20 120302" src="https://github.com/user-attachments/assets/6cf3d5aa-7b1f-4286-80a8-7be5e8dade58" />
+<img width="1864" height="734" alt="Screenshot 2025-08-20 120402" src="https://github.com/user-attachments/assets/e8fc93b5-41cc-4f0d-85d8-6d0da8b8f53d" />
+<img width="1908" height="964" alt="Screenshot 2025-08-20 120338" src="https://github.com/user-attachments/assets/1648888c-0ca6-498a-a5c0-ea3db5388946" />
+
 📜 License
 
 This project is licensed under the MIT License.
@@ -54,4 +59,6 @@ This project is licensed under the MIT License.
 * scikit-learn for ML models
 * Streamlit for building an interactive app
 * SQLite for lightweight database management
+
+  
 
