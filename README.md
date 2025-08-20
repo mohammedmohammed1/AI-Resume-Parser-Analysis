@@ -28,7 +28,7 @@ README.md
 ⚡ Installation & Usage
 1. Clone the repository  
 
-   git clone https:
+   git clone https:https://github.com/mohammedmohammed1/AI-Resume-Parser-Analysis
 
 2. Install dependencies
 
