@@ -60,5 +60,10 @@ This project is licensed under the MIT License.
 * Streamlit for building an interactive app
 * SQLite for lightweight database management
 
+📧 Contact
+
+Mohammed Yasin
+Email:mohamedyasin9168@gmail.com
+LinkedIn: (https://www.linkedin.com/in/mohammed-yasin-12a2392a6/)
   
 
