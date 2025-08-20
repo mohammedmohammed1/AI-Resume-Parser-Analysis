@@ -47,7 +47,8 @@ README.md
 
 📊 Screenshot
 <img width="1919" height="709" alt="Screenshot 2025-08-20 120302" src="https://github.com/user-attachments/assets/6cf3d5aa-7b1f-4286-80a8-7be5e8dade58" />
-
+<img width="1908" height="964" alt="Screenshot 2025-08-20 120338" src="https://github.com/user-attachments/assets/aa8ecfe8-a70e-45c3-a83c-4c08f7268d34" />
+<img width="1864" height="734" alt="Screenshot 2025-08-20 120402" src="https://github.com/user-attachments/assets/5993133d-3786-4055-9a67-9906f20f30b1" />
 
 📜 License
 
