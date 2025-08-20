@@ -1,12 +1,8 @@
-AI-Resume-Parser-Analysis
-AI-powered Resume Prediction app using Streamlit and ML. Extracts resume text, predicts job roles, stores results in SQLite, and offers easy management of predictions. A simple yet effective tool for resume analysis and career insights
-Perfect 
+🚀 AI-Resume-Parser-Analysis
 
- 📌 README.md
+📌 Overview
 
-Resume Prediction App  
-
-An AI-powered application that analyzes resumes, predicts job roles, and stores results in an SQLite database. Built with **Streamlit** and **scikit-learn**, this project provides a simple yet effective way to parse, analyze, and manage resumes.  
+This Project is focuses on AI-powered application that analyzes resumes, predicts job roles, and stores results in an SQLite database. Built with **Streamlit** and **scikit-learn**, this project provides a simple yet effective way to parse, analyze, and manage resumes.  
 
  🚀 Features
 - Extracts text from resumes (PDF/DOCX).  
@@ -32,8 +28,7 @@ README.md
 ⚡ Installation & Usage
 1. Clone the repository  
 
-   git clone https://github.com/yourusername/resume-prediction.git
-   cd resume-prediction
+   git clone https:
 
 2. Install dependencies
 
